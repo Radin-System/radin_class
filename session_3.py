@@ -109,7 +109,7 @@ while tries < 3:
 else:
     print('Please try again later')
 
-# 2. for    -> iterable
+# 2. for -> iterable
 
 names = [
     'Mohammad Heydari',
