@@ -1,5 +1,3 @@
-print("Functions imported")
-
 PI = 3.14
 
 def average(numbers, float_digits = 2):
